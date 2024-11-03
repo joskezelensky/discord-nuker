@@ -10,7 +10,7 @@
 
 ***
 # Preview
-![](https://media.discordapp.net/attachments/744606263811506176/798978368510885928/unknown.png?width=452&height=567)
+![](https://web.archive.org/web/20231212044011im_/https://media.discordapp.net/attachments/744606263811506176/798978368510885928/unknown.png)
 
 ***
 # Installation:
@@ -24,4 +24,3 @@ Extract it and open the Python file
 ***
 # Running
 It's that simple! Doubleklick the file or enter the command `python nuke-bot.py` or `python3 nuke-bot.py` and the nuke bot interface will launch.
-print('iqsxvd')
